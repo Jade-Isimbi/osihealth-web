@@ -1,0 +1,8 @@
+.navbar ul a {
+  color: #f48fb1;
+  font-weight: bold;
+}
+.navbar .nav-link.active {
+  color: #ff007f;
+  font-weight: bold;
+}

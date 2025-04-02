@@ -1,0 +1,17 @@
+.gradient-custom {
+    background: linear-gradient(to right, #FCE4EC, #E3F2FD);
+  }
+  .btn-custom {
+    background-color: #F8BBD0;
+    border-color: #F8BBD0;
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+  }
+  .btn-custom:hover {
+    background-color: #F48FB1;
+    border-color: #F48FB1;
+  }
+  .text-light-gray {
+    color: #757575;
+  }
